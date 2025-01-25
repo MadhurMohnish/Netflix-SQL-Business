@@ -1,3 +1,5 @@
+![Logonetflix](https://github.com/user-attachments/assets/7af0d6b5-d5d4-4800-8197-0f0da5a306d3)
+
 # Netflix Movies and TV Shows Analysis with SQL
 
 ## Overview
